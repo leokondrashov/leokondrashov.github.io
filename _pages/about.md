@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant at NTU • Research Interests: CPU Architecture, Low-level Programming, Cloud Computing
+subtitle: PhD Student at NTU • Research Interests: Cloud Computing, CPU Architecture, Low-level Programming
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info:
-    - 555 your office number
+    - 555 0000
     - Nanyang Technological University, Singapore
     - leonid001@e.ntu.edu.sg
 
@@ -27,4 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I received B.Sc. in Radio Engineering and Computer Science from Moscow Institute of Physics and Technology (MIPT). My research interests include CPU architecture, low-level programming, and cloud computing.
+I am a PhD student at [Nanyang Technological University (NTU)][1], Singapore, supervised by [Dr. Dmitrii Ustiugov][2].
+
+I received a B.Sc. in Radio Engineering and Computer Science from Moscow Institute of Physics and Technology (MIPT). My research and work interests include cloud computing, CPU architecture, and low-level programming. My current research focuses on the performance and cost-efficiency of cluster management and autoscaling in serverless systems.
+
+[1]: https://ntu.edu.sg/
+[2]: https://ustiugov.github.io/

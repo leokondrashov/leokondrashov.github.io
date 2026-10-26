@@ -4,11 +4,13 @@ cv:
   email: leonid001@e.ntu.edu.sg
   location: Nanyang Technological University, Singapore
   image: ""
-  summary: I am a PhD student at Nanyang Technological University (NTU), Singapore, working with Dr. Dmitrii Ustiugov. I received B.Sc. in Radio Engineering and Computer Science from Moscow Institute of Physics and Technology (MIPT). My research interests include CPU architecture, low-level programming, and embedded systems.
+  summary: I am a PhD student at Nanyang Technological University (NTU), Singapore, supervised by Dr. Dmitrii Ustiugov. I received a B.Sc. in Radio Engineering and Computer Science from Moscow Institute of Physics and Technology (MIPT). My research and work interests include cloud computing, CPU architecture, and low-level programming. My current research focuses on the performance and cost-efficiency of cluster management and autoscaling in serverless systems.
 
   social_networks:
     - network: LinkedIn
       username: leonid-kondrashov
+    - network: Google Scholar
+      username: i8quYMYAAAAJ
     - network: GitHub
       username: leokondrashov
 
@@ -29,7 +31,7 @@ cv:
         start_date: 2024
         end_date: present
         highlights:
-          - Research assistant working with Dr. Dmitrii Ustiugov
+          - Working with Dr. Dmitrii Ustiugov
 
       - institution: Nanyang Technological University (NTU), Singapore
         location: Singapore
@@ -37,8 +39,6 @@ cv:
         studyType: Research Assistant
         start_date: 2023
         end_date: 2024
-        highlights:
-          - Research in computer architecture domain
 
       - institution: Moscow Institute of Physics and Technology (MIPT), Russia
         location: Dolgoprudny, Russia
@@ -47,8 +47,6 @@ cv:
         studyType: B.Sc. (with Honours)
         start_date: 2018
         end_date: 2022
-        highlights:
-          - Bachelor's degree with Honours
 
     Experience:
       - company: Nanyang Technological University (NTU), Singapore
@@ -56,28 +54,36 @@ cv:
         location: NTU, Singapore
         start_date: 2023
         end_date: 2024
-        summary: Research assistant working on topics related to computer architecture.
+        summary: Research Assistant at NTU, Singapore.
         highlights:
-          - Contributed to research projects in computer architecture
+          - Research in computer architecture domain
 
       - company: Intel Corporation, USA
         position: Software Intern
         location: Intel Core Microarchitecture Team
         start_date: 2020
         end_date: 2022
-        summary: Intern at Intel Core Microarchitecture Team.
+        summary: Software Intern at Intel Core Microarchitecture Team.
         highlights:
           - Low-level programming
           - CPU architecture research
 
     Teaching:
+      - company: Nanyang Technological University (NTU), Singapore
+        position: Teaching Assistant
+        start_date: 2025-01-01
+        end_date: 2025-12-31
+        summary: Teaching Tutorials for NTU core CS course "Operating Systems"
+        highlights:
+          - Teaching OS tutorials
+
       - company: Moscow Institute of Physics and Technology (MIPT), Russia
         position: Teaching Assistant
         start_date: 2020-01-01
         end_date: 2020-12-31
         summary: Mentoring Technotrack course "Advanced C++"
         highlights:
-          - Mentoring Technotrack course "Advanced C++"
+          - Advanced C++ course mentoring
 
       - company: Moscow Institute of Physics and Technology (MIPT), Russia
         position: Teaching Assistant
@@ -85,16 +91,22 @@ cv:
         end_date: 2019-12-31
         summary: Mentoring STM32 programming course
         highlights:
-          - Mentoring STM32 programming course
+          - STM32 programming course mentoring
 
     Awards:
+
     Publications:
-      - title: ""
-        authors: []
-        publisher: ""
-        releaseDate: ""
-        url: ""
-        summary: ""
+      - title: "The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies"
+        authors: "Kondrashov, L., Zhou, B., Wang, H., and Ustiugov, D."
+        publisher: arXiv preprint
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2509.03104
+
+      - title: "Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility"
+        authors: "Kondrashov, L., Cvetković, L., Wang, H., Zhou, B., Rungta, D., and Ustiugov, D."
+        publisher: arXiv preprint
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2505.24551
 
     Skills:
       - name: Low-level Programming
@@ -110,7 +122,7 @@ cv:
       - name: Cloud Computing
         level: Intermediate
         icon: fa-solid fa-cloud
-        keywords: "Distributed Systems, Cloud Platforms"
+        keywords: "Distributed Systems, Cloud Platforms, Serverless Systems"
 
     Languages:
       - name: Russian
@@ -130,7 +142,7 @@ cv:
 
       - name: Cloud Computing
         icon: fa-solid fa-cloud
-        keywords: "Distributed Systems, Cloud Computing"
+        keywords: "Distributed Systems, Cluster Management, Autoscaling"
 
     Certificates:
 
