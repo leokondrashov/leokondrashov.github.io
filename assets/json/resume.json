@@ -39,9 +39,7 @@
       "startDate": "2023-01-01",
       "endDate": "2024-12-31",
       "summary": "Research Assistant at NTU, Singapore.",
-      "highlights": [
-        "Research in computer architecture domain"
-      ]
+      "highlights": ["Research in computer architecture domain"]
     },
     {
       "name": "Intel Corporation, USA",
@@ -50,10 +48,7 @@
       "startDate": "2020-01-01",
       "endDate": "2022-12-31",
       "summary": "Software Intern at Intel Core Microarchitecture Team.",
-      "highlights": [
-        "Low-level programming",
-        "CPU architecture research"
-      ]
+      "highlights": ["Low-level programming", "CPU architecture research"]
     }
   ],
   "volunteer": [],
@@ -68,9 +63,7 @@
       "endDate": "present-01-01",
       "score": "",
       "courses": [],
-      "highlights": [
-        "Working with Dr. Dmitrii Ustiugov"
-      ]
+      "highlights": ["Working with Dr. Dmitrii Ustiugov"]
     },
     {
       "institution": "Nanyang Technological University (NTU), Singapore",
