@@ -1,8 +1,8 @@
 ---
-title: "Mentoring for Technotrack course 'Advanced C++'"
+title: "Advanced C++ Programming"
 layout: teaching
 permalink: /teaching/cplusplus/
-description: Mentoring for Technotrack course "Advanced C++"
+description: Mentoring for Technotrack course 'Advanced C++'
 date: 2020-01-01
 venue: Moscow Institute of Physics and Technology (MIPT)
 address: Dolgoprudny, Russia
