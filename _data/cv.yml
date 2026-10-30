@@ -1,144 +1,107 @@
 cv:
   name: Leonid Kondrashov
-  label: PhD Student
+  label: Ph.D. candidate
   email: leonid001@e.ntu.edu.sg
-  location: Nanyang Technological University, Singapore
-  image: ""
-  summary: I am a PhD student at Nanyang Technological University (NTU), Singapore, supervised by Dr. Dmitrii Ustiugov. I received a B.Sc. in Radio Engineering and Computer Science from Moscow Institute of Physics and Technology (MIPT). My research and work interests include cloud computing, CPU architecture, and low-level programming. My current research focuses on the performance and cost-efficiency of cluster management and autoscaling in serverless systems.
-
-  social_networks:
-    - network: LinkedIn
-      username: leonid-kondrashov
-    - network: Google Scholar
-      username: i8quYMYAAAAJ
-    - network: GitHub
-      username: leokondrashov
-
+  phone: +65 8531 8620
+  location: Singapore
   address:
-    street: ""
     city: Singapore
-    region: ""
-    postalCode: ""
-    countryCode: SG
-
+  summary: Ph.D. candidate at Nanyang Technological University with two years of internship experience at Intel, specializing in serverless
+    systems and performance analysis. Proficient in Go, C++, and Python, with experience in cloud computing and computer architecture.
   sections:
     Education:
-      - institution: Nanyang Technological University (NTU), Singapore
+      - institution: Nanyang Technological University
         location: Singapore
-        url: https://www.ntu.edu.sg
-        area: Computer Science
-        studyType: PhD
-        start_date: 2024
+        studyType: Ph.D.
+        start_date: 2024-01
         end_date: present
         highlights:
-          - Working with Dr. Dmitrii Ustiugov
-
-      - institution: Moscow Institute of Physics and Technology (MIPT), Russia
-        location: Dolgoprudny, Russia
-        url: https://www.mipt.ru/
-        area: Radio Engineering and Computer Science
-        studyType: B.Sc. (with Honours)
-        start_date: 2018
-        end_date: 2022
-
+          - "Researching serverless system optimizations: autoscaling and snapshot state management."
+          - "PulseNet: an efficient cluster manager combining high scaling performance for FaaS with full-feature support of conventional
+            cluster managers."
+      - institution: Moscow Institute of Physics and Technology (MIPT)
+        studyType: B.Sc. with Honours
+        area: Applied Math and Physics
+        start_date: 2018-09
+        end_date: 2022-07
+        highlights:
+          - "GPA: 4.95/5.00."
+          - "Thesis: “Methods of analysis and comparison of execution speed of cycle-accurate simulators of microprocessor.” Advisor: Pavel
+            Kryukov (Intel/MIPT)."
+          - Coursework and skills in programming, electrical engineering, operating systems, and computer networks.
     Experience:
-      - company: Nanyang Technological University (NTU), Singapore
-        position: Research Assistant
-        location: NTU, Singapore
-        start_date: 2023
-        end_date: 2024
-        summary: Research Assistant at NTU, Singapore.
-        highlights:
-          - Research in computer architecture domain
-
-      - company: Intel Corporation, USA
+      - company: Intel · Core Microarchitecture Team
         position: Software Intern
-        location: Intel Core Microarchitecture Team
-        start_date: 2020
-        end_date: 2022
-        summary: Software Intern at Intel Core Microarchitecture Team.
+        start_date: 2020-07
+        end_date: 2022-07
         highlights:
-          - Low-level programming
-          - CPU architecture research
-
-    Teaching:
-      - company: Nanyang Technological University (NTU), Singapore
-        position: Teaching Assistant
-        start_date: 2025-01-01
-        end_date: 2025-12-31
-        summary: Teaching Tutorials for NTU core CS course "Operating Systems"
-        highlights:
-          - Teaching OS tutorials
-
-      - company: Moscow Institute of Physics and Technology (MIPT), Russia
-        position: Teaching Assistant
-        start_date: 2020-01-01
-        end_date: 2020-12-31
-        summary: Mentoring Technotrack course "Advanced C++"
-        highlights:
-          - Advanced C++ course mentoring
-
-      - company: Moscow Institute of Physics and Technology (MIPT), Russia
-        position: Teaching Assistant
-        start_date: 2019-01-01
-        end_date: 2019-12-31
-        summary: Mentoring STM32 programming course
-        highlights:
-          - STM32 programming course mentoring
-
-    Awards:
-
+          - Analyzed the performance of prospective microarchitectural features in cache prefetching and cache structures for Intel Core
+            microarchitecture.
+          - Enhanced the speed and accuracy of the microprocessor simulator.
     Publications:
+      - title: Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework
+        summary: JooYoung Park; Leonid Kondrashov; Hongrui Liu; Boxi Zhou; Zonghao Liu; Chengzhi Lu; Riccardo Mancini; Esha Choukse; Haris
+          Javaid; German Sviridov; Tao Peng; Chen Zhao; Anastasia Avdeeva; Aleksei Gusev; Marios Kogias; Luo Mai; Dmitrii Ustiugov
+        publisher: SoCC
+        releaseDate: "2026"
+        url: https://doi.org/10.1145/3828161.3857887
+      - title: "SnapShare: Isolation-Preserving Deduplication for Serverless Snapshots"
+        summary: Leonid Kondrashov; Likun Zhang; André Filipe do Pilar de Jesus; Hans Pistor; Marco Cali; Riccardo Mancini; Rodrigo Bruno;
+          Dmitrii Ustiugov
+        publisher: arXiv preprint arXiv:2610.13318
+        releaseDate: "2026"
+        url: https://arxiv.org/abs/2610.13318
       - title: "The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies"
-        authors: "Kondrashov, L., Zhou, B., Wang, H., and Ustiugov, D."
-        publisher: arXiv preprint
-        releaseDate: 2025
+        summary: Leonid Kondrashov; Boxi Zhou; Hancheng Wang; Dmitrii Ustiugov
+        publisher: arXiv preprint arXiv:2509.03104
+        releaseDate: "2025"
         url: https://arxiv.org/abs/2509.03104
-
-      - title: "Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility"
-        authors: "Kondrashov, L., Cvetković, L., Wang, H., Zhou, B., Rungta, D., and Ustiugov, D."
-        publisher: arXiv preprint
-        releaseDate: 2025
+      - title: Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility
+        summary: Leonid Kondrashov; Lazar Cvetković; Hancheng Wang; Boxi Zhou; Dhairya Rungta; Dmitrii Ustiugov
+        publisher: arXiv preprint arXiv:2505.24551
+        releaseDate: "2025"
         url: https://arxiv.org/abs/2505.24551
-
-    Skills:
-      - name: Low-level Programming
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Assembly, C, C++, Embedded Systems"
-
-      - name: CPU Architecture
-        level: Advanced
-        icon: fa-solid fa-microchip
-        keywords: "Computer Architecture, Microarchitecture"
-
-      - name: Cloud Computing
-        level: Intermediate
-        icon: fa-solid fa-cloud
-        keywords: "Distributed Systems, Cloud Platforms, Serverless Systems"
-
-    Languages:
-      - name: Russian
-        summary: Native speaker
-
-      - name: English
-        summary: Fluent
-
-    Interests:
-      - name: Low-level Programming
-        icon: fa-solid fa-code
-        keywords: "Assembly Programming, C, C++"
-
-      - name: CPU Architecture
-        icon: fa-solid fa-microchip
-        keywords: "Computer Architecture, Microarchitecture"
-
-      - name: Cloud Computing
-        icon: fa-solid fa-cloud
-        keywords: "Distributed Systems, Cluster Management, Autoscaling"
-
-    Certificates:
-
+    Workshops:
+      - bullet: Leonid Kondrashov and Dmitrii Ustiugov (2024). **Quantifying the System Tax in Serverless Cloud.** SESAME @ EuroSys 2024.
+    Teaching:
+      - label: Advanced C++ · Technotrack (February–May 2020)
+        details: Mentored students, checked assignments, and answered questions about lecture material.
+      - label: STM32 programming (September 2019–January 2020)
+        details: Taught the basics of STM32 microcontroller programming using pre-recorded lectures and wrote descriptions for example
+          lab work.
     Projects:
-
-    References:
+      - name: ARIES agentic experimentation platform
+        url: https://github.com/hyscale-lab/ARIES
+        summary: Maintenance and release management.
+      - name: vHive serverless platform
+        url: https://github.com/vhive-serverless/vHive
+        summary: Performance and reliability enhancements; onboarding new contributors.
+      - name: Simics device simulation
+        url: https://github.com/leokondrashov/simics_device
+        summary: Device model development using Simics’ DML and Linux drivers for the “Fundamentals of Full-Platform Simulation” course
+          at MIPT.
+    Skills:
+      - name: Programming
+        keywords:
+          - Go
+          - C++
+          - Python
+      - name: Systems
+        keywords:
+          - Cloud computing
+          - Serverless systems
+          - Performance analysis
+          - Computer architecture
+    Awards:
+      - title: Abramov and Frolov scholarship
+        awarder: MIPT
+        summary: September 2019–May 2021.
+      - title: 2nd place · NTI team olympiad
+        date: 2020-04
+        summary: Wireless Technologies.
+    Certificates:
+      - name: IELTS Academic · Overall score 7.5
+        date: 2022-10
+      - name: Industrial programming in C · Certificate with honours
+        issuer: Technotrack
+        date: 2019-01

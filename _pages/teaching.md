@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course mentorship experience
+description: Course mentorship in C++ and embedded systems programming.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-This page displays a collection of courses I have mentored, with detailed schedules, materials, and resources.
+## Advanced C++ · Technotrack
 
-{% include courses.liquid %}
+**February–May 2020**
+
+Mentored students in the Technotrack “Advanced C++” course, checked assignments, and answered questions about lecture material.
+
+## STM32 programming
+
+**September 2019–January 2020**
+
+Taught the basics of STM32 microcontroller programming using pre-recorded lectures and wrote descriptions for example lab work.
